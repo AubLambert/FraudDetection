@@ -2,7 +2,7 @@
 
 ## Introduction
 This project aims to detect fraudulent credit card transactions in a highly imbalanced dataset.
-Dataset taken from: [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+Dataset taken from: [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 Key objectives:
 - Build a preprocessing and feature engineering pipeline.  
 - Address the class imbalance problem.  
