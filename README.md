@@ -1,4 +1,4 @@
-# ⚠️⚠️Credit Card Fraud Detection⚠️⚠️
+# Credit Card Fraud Detection
 
 ## Introduction
 This project aims to detect fraudulent credit card transactions in a highly imbalanced dataset.
